@@ -1,4 +1,4 @@
-Mixed-member single transferable vote-based proportional representation (MMSTVPR) is a variant on mixed-member proportional representation (MMPR). 
+**Mixed-member single transferable vote-based proportional representation** (**MMSTVPR**) is a variant on mixed-member proportional representation (MMPR). 
 
 In MMPR, voters get two, maybe three, votes: 
 
@@ -6,7 +6,7 @@ In MMPR, voters get two, maybe three, votes:
 2. for their preferred party (party list vote); and
 3. for their preferred candidate among those running via the party list for their preferred party.
 
-Members elected by (1) are elected first, and then the second vote is used to elect additional members to proportion things out, such that the percentage of votes a given party receives in (2) is approximately equal to the percentage of seats in the chamber they are allocated. (3) is used to determine which individual candidates occupy the seats the party wins based on the party list vote. Not all MMPR systems allow for voters to choose who occupies seats allocated to parties based on the party list vote, in fact it is the norm for these systems not to.
+Members elected by (1) are elected first, and then the second vote is used to elect additional members to proportion things out, such that the percentage of votes a given party receives in (2) is approximately equal to the percentage of seats in the chamber they are allocated. (3) is used to determine which individual candidates occupy the seats the party wins based on the party list vote. Not all MMPR systems allow for voters to choose who occupies seats allocated to parties based on their party list vote, in fact it is the norm for these systems not to.
 
 In MMSTVPR, voters also get two or three votes:
 
