@@ -14,4 +14,6 @@ In MMSTVPR, voters also get two or three votes:
 2. for their preferred party (party list vote); and
 3. for the candidates they most want to occupy the seats their preferred party won based on their share of the party list vote.
 
-Like with MMPR, those elected using (1) are elected first, and then the second vote is used to elect additional members to proportion things out. (3) is used to decide, by STV, who occupies the seats the parties have won based on their share of the party list vote.
+Like with MMPR, those elected using (1) are elected first, and then the second vote is used to elect additional members to proportion things out. (3) is used to decide, by STV, who occupies the seats the parties have won based on their share of the party list vote. 
+
+Because STV from multi-member electorates provides semi-proportional representation alfready, the percentage of members that need to be elected by (2) is relatively small compared to when a traditional MMPR system is used. 
